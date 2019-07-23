@@ -1,0 +1,145 @@
+
+
+.content-solo{
+    font-size: .12rem;
+}
+.cont-header{height: .8rem;background: #371989;padding: 0 .7rem}
+.ch-src{width: .6rem;margin: .1rem 0;
+    height: .6rem;vertical-align: middle;}
+.ch-slogan{display: inline-block;vertical-align: middle;color: #fff;}
+.chs-name{font-size: .24rem;}
+.chs-s{font-size: .14rem;}
+
+.idx-nav{float: right;color: #fff;font-size: .14rem;line-height: .8rem;padding-right: .3rem;}
+.idx-nav a{padding-left: .4rem}
+
+
+/*banner*/
+
+.home-banner-msg{display: inline-block;vertical-align: middle; padding-left: 1.4rem}
+.home-banner{width: 100%;height: 8rem;box-sizing: border-box;padding: .87rem 0;
+    background: #F3EEFF;}
+.hb-url{width: 100%}
+.index-bnGroup{width: 8.3rem;display: inline-block;vertical-align: top;padding-left: 1.6rem}
+.hb-h3{font-size: .48rem;width: 4.32rem;color: #221447;padding-top: .27rem}
+.hb-lf-p{width: 3.72rem;font-size: .2rem;padding: .44rem 3.7rem 1.6rem 0;
+    color: #523F84;}
+.home-banner .hb-tips{font-size: .2rem;color: #523F84;font-size: .2rem;padding-top: .8rem}
+
+
+/*group*/
+.index-content-group{text-align: center;margin: 1rem 1.58rem;border-bottom: .01rem solid #F3EFFF;}
+.idg-title{font-size: .4rem;text-align: left;
+    position: relative;}
+.idg-title p{font-size: .22rem;
+    color: #787887;}
+.idg-title:after{position: absolute;content: " ";width: .08rem;
+    height: .9rem;background: #0E65E5;left: -.2rem;top: 50%;transform: translateY(-50%)}
+
+.pb-idg-title:after{position: absolute;content: " ";width: .08rem;
+    height: .9rem;background: #1EAF69;left: -.2rem;top: 50%;transform: translateY(-50%)}
+.hos-idg-title:after{background: #FA6400;}
+.pro-idg-title:after{background: #0091FF}
+.index-content-group h3{font-size: .5rem;padding: .7rem 0 .2rem 0;text-align: center;
+    color: #221447;}
+.idg-p{color: #787887;font-size: .22rem;padding-bottom: .12rem;}
+.idg-img{width: 10rem;margin-top: .6rem}
+.index-idg-img{margin-bottom: .8rem}
+.index-yun{position: relative;padding: .87rem 0;box-sizing: border-box;}
+.idg-yun-img{width: 7rem}
+
+.index-yun-lf{display: inline-block;width: auto;height: 4rem; vertical-align: middle;position: relative}
+.index-yun-lf:after{position: absolute;content: "抛弃昂贵又繁冗的线下转诊中心";display: block;width: 5rem;
+    font-size: .24rem;color: #221447;left: -5.21rem;
+    top: .55rem;text-align: right;}
+.index-yun-lf:before{position: absolute;content: "在线自主经营，海礁云中心丰富的线上工具支持";display: block;width: 6rem;
+    font-size: .24rem;color: #221447;left: -4.75rem;
+    bottom: -.1rem;text-align: right;}
+.index-yun-rg:after{position: absolute;content: "无需担心中间机构的服务水平差异";display: block;width: 5rem;
+    font-size: .24rem;color: #221447;right: -5.2rem;
+    top: -.12rem;text-align: left;}
+.index-yun-rg:before{position: absolute;content: "海礁国际化营销赋能团队，助力直面2亿中产阶级受众";display: block;width: 3.8rem;
+    font-size: .24rem;color: #221447;right: -4.0rem;
+    bottom: .3rem;text-align: left;}
+.index-yun-rg{display: inline-block;width: auto;height: 4rem;vertical-align: middle;position: relative}
+.index-yun-lf img,.index-yun-rg img{height: 100%}
+
+/*coop*/
+.index-coop{margin: 1rem 0;text-align: center;}
+.coop-bx,.coop-qy{margin: 0 auto;width: 13rem;}
+.index-coop h3{font-size: .50rem;
+    color: #221447;}
+.index-coop p{font-size: .18rem;padding: .2rem 0;
+    color: #787887;}
+.coop-bx{  padding-top: .2rem; }
+.coop-bx img{height: .4rem;margin-right:  1rem}
+.coop-qy img{width: 100%}
+
+
+/*********************************   public **********************************/
+.inHai{width: 16.4rem;height: 4rem;background: #E5F7EE;padding: .6rem .7rem;box-sizing: border-box;margin: .4rem auto;}
+.pb-inHai-txt{display: inline-block;vertical-align: middle;}
+.pb-inHai-txt h5{font-size: .4rem;color: #1EAF69;padding-bottom: .25rem;}
+.pb-inHai-txt p{font-size: .2rem;color: #1EAF69;line-height: .49rem}
+.hos-inHai-txt h5,.hos-inHai-txt p{color: #FA6400}
+.pb-inHai-txt span{font-weight: 600;}
+
+.pb-inHai-img{vertical-align: middle;font-size: .16rem;color: #1EAF69;float: right}
+.pb-inHai-img img{width: 4rem;}
+
+.pb-sq-imgGroup{float: left;padding: .9rem 0;width: 50%;}
+.pb-sq-imgItem{text-align: center}
+.pb-sq-imgItem .pb-sq-imgBox{width: 3.19rem;height: 2.74rem;text-align: center;position: relative;margin: 0 auto;}
+.pb-sq-imgBox img{max-width: 100%;max-height: 100%;position: absolute;top: 50%;left: 50%; transform: translate(-50%,-50%);}
+.pb-sq-imgItem h6{padding: .38rem 0 0 0;font-size: .24rem;color: #1EAF69}
+.pb-sq-imgItem p{font-size: .14rem;color: #787887}
+
+/********************************** hospital**************************************/
+.hos-sq-h5{font-size: .24rem;color: #FA6400;font-weight: 500;padding: .96rem 0 .08rem 0;}
+.hos-sq-p{font-size: .14rem;color: #787887;line-height: .34rem;}
+.hos-sq-img{width: 5.5rem;margin: .78rem 0 1rem 0}
+.hos-sq-img1{width: 16.6rem;margin: .62rem 0 1rem 0;}
+
+
+/************************************product*********************************/
+.pro-sw-lf{display: inline-block;padding: .77rem 0 0 2.12rem;}
+.pro-lf-img{width: 3.36rem;vertical-align: middle}
+.pro-sw-txt{display: inline-block;vertical-align: middle}
+.pro-sw-txt h3{color: #0091FF;font-size: .4rem;padding-bottom: .25rem;}
+.pro-sw-txt p{font-size: .2rem;color: #787887;padding-bottom: .2rem}
+.pro-sw-txt .pro-er-code{width: 1rem;height: 1rem}
+.pro-sq-right{width: 8rem;vertical-align: middle;margin-left: 2rem}
+
+.pro-item{float: left;width: 25%;padding-top: .8rem;text-align: left}
+.pro-item h5{font-size: .4rem;color: #0091FF;font-weight: 400}
+.pro-item p{font-size: .22rem;color: #787887}
+.pro-group{padding: .5rem 0 1rem 0;box-sizing: border-box;}
+
+
+.pro-bottom{text-align: center;padding: .85rem 0 1rem 0;}
+.prob-img{width: 2.63rem}
+.pro-bottom h3{font-weight: 500;color: #0091FF;font-size: .4rem;margin: .15rem 0 .25rem 0}
+.pro-bottom p{color: #787887;font-size: .2rem;}
+.prob-mail{color: #787887;font-size: .22rem;padding-top: 1rem}
+
+
+
+
+/***************************************about******************************/
+.about-imgGrout{text-align: center;margin:  .8rem auto;}
+.about-img{width: 12.3rem;}
+.about-item{float: left;width: 25%;text-align: left;padding-top: 1rem;}
+.about-item h5{font-size: .4rem;color: #0091FF;padding-bottom: .25rem;}
+.about-item p{font-size: .22rem;color: #787887;line-height: .34rem;}
+
+
+
+
+.abt-content{padding: 1rem 1.4rem;box-sizing: border-box;}
+.abt-content p{font-size: .22rem;color: #787887;padding-top: .2rem;}
+.abt-content h4{font-size: .5rem;font-weight: 500;color: #221447;text-align: center}
+.abt-item{float: left;width: 33.3%;text-align: center}
+.abt-item p{color: #221447;font-size: .2rem;}
+.abt-item img{width: .4rem;}
+.abt-item h5{color: #221447;font-size: .2rem;font-weight: 500;padding: .38rem 0;}
+.abt-Group{padding: 0 1.4rem 1rem 1.4rem;box-sizing: border-box;}

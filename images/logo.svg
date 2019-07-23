@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="58.3240704%" y1="81.3029408%" x2="15.4783766%" y2="11.2791599%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.0668488%" y1="83.2743986%" x2="89.0275575%" y2="22.0839011%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="稿2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-387.000000, -3895.000000)">
+            <g id="编组-35" transform="translate(0.000000, 3865.000000)">
+                <g id="编组-26" transform="translate(387.000000, 30.000000)">
+                    <g id="logo">
+                        <ellipse id="椭圆形" fill="url(#linearGradient-1)" opacity="0.30328776" cx="31.9291391" cy="31.1913124" rx="25.8947368" ry="24.8387097"></ellipse>
+                        <path d="M33.9140979,58.1787715 C39.3239558,65.7921066 59.7423536,44.9093529 59.7423536,31.1913124 C59.7423536,17.4732718 52.8353727,-3.17693478 31.9291391,1.63414975 C11.0229055,6.44523427 -10.8912639,22.8855238 6.03440225,31.1913124 C22.9600684,39.4971009 28.50424,50.5654363 33.9140979,58.1787715 Z" id="椭圆形" fill="url(#linearGradient-2)" opacity="0.597444"></path>
+                        <path d="M31.9291391,56.030022 C49.267919,58.1392739 57.8238759,44.9093529 57.8238759,31.1913124 C57.8238759,17.4732718 39.6956927,26.5120925 31.9291391,6.35260268 C24.1625854,-13.8068872 -7.87191878,19.4166647 6.03440225,31.1913124 C19.9407233,42.96596 14.5903591,53.9207702 31.9291391,56.030022 Z" id="椭圆形" fill="url(#linearGradient-3)" opacity="0.500102307"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
